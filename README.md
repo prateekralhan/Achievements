@@ -1,6 +1,6 @@
 # Personal Stuff
 
-* ### Patents 📑📝
+* ### [Patents 📑📝](https://github.com/prateekralhan/Personal_Stuff/tree/Patents)
 
 * ### Publications 📄📖
 
