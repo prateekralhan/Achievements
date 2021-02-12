@@ -21,6 +21,16 @@ Was among the **Top 1000** students to qualify for the second round of the **All
 ## [Nirmaan Enterprises – ‘Best Business Idea in Asia Pacific’ (2013-2015)](http://smsnirmaanenterprises.blogspot.com/2014/11/we-are-asia-pacific-winners.html)
 Was the **co-founder of ‘Nirmaan Enterprises’** that was adjudged as **‘The Best Business Idea in Asia Pacific’** by the British Council with a prize money of **$1000**.
 
+----------------------------------------------------------------------------------
+# Extra-Curricular Activities 🎥📺🎬
+
+## [1st Prize – KHALBALI (Inter College Street Play Competition)](https://drive.google.com/file/d/1ywLX_3kKnipXZnMX5RZriG_xb9HquMlI/view)
+An International Sports and Cultural Festival – RIVIERA 2017 held at VIT University (Vellore), India.
+
+## [2nd Prize – Variety Show (Inter College Street Play Competition)](https://drive.google.com/file/d/1-ZifJJFZOrgcesMX69TKKiOb2XhLEL0A/view)
+An Intercollegiate Cultural and Fine Arts Meet held at Jawaharlal Institute of Post Graduate Medical Education and Research (JIPMER), Pondicherry, India.
+
+
 
 ----------------------------------------------------------------------------------
 ## Interested in Other sections?
