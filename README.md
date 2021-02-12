@@ -10,34 +10,37 @@
 | An Improvised Framework for QOS Enhancement in MANET using Soft Computing Models | [Journal of Wireless Networks](https://www.springer.com/journal/11276)| ***In Review*** |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----------------------------------------------------------------------------------
+## Interested in Other sections?
 
 * ### [Patents 📑📝](https://github.com/prateekralhan/Personal_Stuff/tree/Patents)
 
 * ### [Other Achievements 🏆⚡](https://github.com/prateekralhan/Personal_Stuff/tree/Other-Achievements)
+----------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
