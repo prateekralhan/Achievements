@@ -20,3 +20,10 @@ Was among the **Top 1000** students to qualify for the second round of the **All
 
 ## Nirmaan Enterprises – ‘Best Business Idea in Asia Pacific’ (2013-2015)
 Was the **co-founder of ‘Nirmaan Enterprises’** that was adjudged as **‘The Best Business Idea in Asia Pacific’** by the British Council with a prize money of **$1000**.
+
+
+-------------------------------------------------------------------------------------------
+* ### [Patents 📑📝](https://github.com/prateekralhan/Personal_Stuff/tree/Patents)
+
+* ### [Publications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Publications)
+-------------------------------------------------------------------------------------------
