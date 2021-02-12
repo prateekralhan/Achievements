@@ -1,7 +1,7 @@
 # [Publications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Publications)
 
 
-| **Paper**       | **Journal / Conference**     | **Status**     |
+| **Research Paper**       | **Journal / Conference**     | **Status**     |
 | ----------- | ----------- | ----------- |
 | [Qualitative Content Analysis in Visual Question Answering Based Datasets and Algorithms](https://drive.google.com/file/d/1mp2nPmBMzpLhHZdHJsfiolF0FOr_ZSwI/view) | [International Journal of High Performance Computing and Networking](https://www.inderscience.com/jhome.php?jcode=ijhpcn) | 🎯**Published** |
 | [Analysis of Deep Convolutional Neural Networks for Image Classification](https://drive.google.com/file/d/1hoLThBFyGJDuljJwSwcNHeVzZYNBVlEt/view?usp=sharing)   | [ICASISET 2019](http://icasiset.com/index.html) | 🎯**Published** |
