@@ -1,12 +1,10 @@
-![banner](https://user-images.githubusercontent.com/29462447/107814419-db336580-6d97-11eb-8b50-bad5441ceb6f.png)
-
-# 🎯 Achievements ✅ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# 🎯 Certifications ✅ [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 
 
-* ### [Patents 📑📝](https://github.com/prateekralhan/Personal_Stuff/tree/Patents)
+* ### [Palantir Foundry certified Data Engineer - Professional 📑](https://verify.skilljar.com/c/nzvkdr3f7bwh)
 
-* ### [Publications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Publications)
+* ### [Palantir Foundry certified Data Engineer - Associate 📄](https://verify.skilljar.com/c/39bzj66ticgn)
 
-* ### [Certifications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Certifications)
+* ### [Palantir Foundry certified Application Developer - Associate📄](https://verify.skilljar.com/c/zqfvf3bqi2qm)
 
-* ### [Other Achievements 🏆⚡](https://github.com/prateekralhan/Personal_Stuff/tree/Other-Achievements)
+* ### [Palantir Foundry certified Data Analyst 📄](https://verify.skilljar.com/c/87pdexijyt4x)
