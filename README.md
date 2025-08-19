@@ -8,3 +8,5 @@
 * ### [Palantir Foundry certified Application Developer - Associate📄](https://verify.skilljar.com/c/zqfvf3bqi2qm)
 
 * ### [Palantir Foundry certified Data Analyst 📄](https://verify.skilljar.com/c/87pdexijyt4x)
+
+* ### [Microsoft Certified - Azure Fundamentals 📄](https://www.credly.com/badges/b904106b-fe12-463d-b095-9e7df1443a8b)
