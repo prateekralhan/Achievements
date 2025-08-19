@@ -7,4 +7,6 @@
 
 * ### [Publications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Publications)
 
+* ### [Certifications 📄📖](https://github.com/prateekralhan/Personal_Stuff/tree/Certifications)
+
 * ### [Other Achievements 🏆⚡](https://github.com/prateekralhan/Personal_Stuff/tree/Other-Achievements)
